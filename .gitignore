@@ -1,0 +1,8 @@
+hospital_env/
+venv/
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+.idea/
